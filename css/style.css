@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    clear: both;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(82, 86, 89);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.datos1{
+    background-color: #99c33d;
+    width: 50%;
+
+}
+.datos2{
+    background-color: #d9d9d9;
+    width: 25%;
+}
+
+.datos3{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+}
+
+.hv table {
+    
+    font-size: 18px;
+    text-align: justify;
+    text-size-adjust: 5;
+    margin: 0 auto;
+    height: auto;
+    width: 1200px;
+
+  }
